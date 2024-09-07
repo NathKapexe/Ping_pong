@@ -1,0 +1,10 @@
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\bin\Debug\Pinpong_game.exe.config
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\bin\Debug\Pinpong_game.exe
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\bin\Debug\Pinpong_game.pdb
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.csproj.AssemblyReference.cache
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.Form1.resources
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.Properties.Resources.resources
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.csproj.GenerateResource.cache
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.csproj.CoreCompileInputs.cache
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.exe
+C:\Users\anaga\OneDrive\Escritorio\dibujo\Sistemas Computaciones\3er Semestre\Estructura de datos\Programas\Pinpong_game\Pinpong_game\obj\Debug\Pinpong_game.pdb
